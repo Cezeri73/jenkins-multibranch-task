@@ -3,7 +3,7 @@ pipeline {
     
     // Jenkins Tools'da tanımlayacağımız Node ismini buraya yazıyoruz
     tools {
-        nodejs 'node17' 
+        nodejs 'node7' 
     }
 
     environment {
